@@ -20,6 +20,12 @@ I started in security as a SOC Analyst and I'm now focused on building and autom
 ![AWS](https://img.shields.io/badge/AWS-1a1a1a?logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?logo=python&logoColor=white)
 
+#### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LOPMaD&show_icons=true&hide_border=true&theme=dark&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOPMaD&layout=compact&hide_border=true&theme=dark)
+
 #### Contact
 
 📫 artempaskan349@gmail.com
